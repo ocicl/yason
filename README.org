@@ -7,4 +7,4 @@ Common Lisp JSON serializer written with simplicity in mind
 | commit  | 0c84b29                                  |
 | systems | yason                                    |
 |---------+------------------------------------------|
-  
+   
