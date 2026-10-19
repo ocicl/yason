@@ -4,7 +4,7 @@ Common Lisp JSON serializer written with simplicity in mind
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/phmarek/yason.git |
-| commit  | 0c84b29                                  |
+| commit  | ea16bc5                                  |
 | systems | yason                                    |
 |---------+------------------------------------------|
    
